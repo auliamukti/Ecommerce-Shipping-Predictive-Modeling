@@ -26,18 +26,6 @@ An international e-commerce company that sells electronic products want to disco
 | Weight_in_gms | Continous | Product Weight in grams | 4953, 5676, 2171
 | Reached.on.Time_Y.N | Nominal | Target Variable, 1: NOT reached on time - 0: REACHED on time | 1, 0
 
-1. 59.7% of e-commerce shipping deliveries are late received by the customers (6.563 of 10.999 customers).
-![image](https://user-images.githubusercontent.com/80570935/126962808-11ff1d40-e71b-4d71-b0ed-e561ae408e3a.png)
-
-2. Ship & Warehouse F has the highest frequency of delivery. But it looks almost the same based on the percentage. There's an assumtion that the late is influenced by other factors.
-![image](https://user-images.githubusercontent.com/80570935/126960264-5f61c973-91f9-4ab3-b1a3-ca4f236ec0a4.png)
-
-3. Every product that gets a discount above 10 is confirmed Late. There is an assumption that this happens in specific months, but needs further checking. 
-![image](https://user-images.githubusercontent.com/80570935/126960668-055ad318-7bd9-4674-a2c5-73211b8215e6.png)
-
-4. Shipping delivery is confirmed late when the product weight is between 2-4 kg.
-![image](https://user-images.githubusercontent.com/80570935/126961078-28049344-6c62-4168-b92e-c347c8b80930.png)
-
 <br><br>
 ## **Data Processing**<br>
 • Check missing & duplicate values<br>
