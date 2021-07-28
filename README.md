@@ -52,7 +52,7 @@ An international e-commerce company that sells electronic products want to disco
 | AP Test | 0.74 | 0.67 | 0.70 | 0.68 | 
 <br> 
 Based on the model evaluation, Random Forest algorithm has the best result.
-<br>
+
 ## **Recommendations**<br>
 ### Short terms
 • Add estimatedarrival time to assure the package arrived on time<br>
