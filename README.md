@@ -25,7 +25,6 @@ An international e-commerce company that sells electronic products want to disco
 | Discount_offered | Discrete | Product Discount in US Dollars | 65, 10, 16
 | Weight_in_gms | Continous | Product Weight in grams | 4953, 5676, 2171
 | Reached.on.Time_Y.N | Nominal | Target Variable, 1: NOT reached on time - 0: REACHED on time | 1, 0
-
 <br><br>
 ## **Data Processing**<br>
 • Check missing & duplicate values<br>
@@ -53,8 +52,7 @@ An international e-commerce company that sells electronic products want to disco
 | AP Test | 0.74 | 0.67 | 0.70 | 0.68 | 
 <br> 
 Based on the model evaluation, Random Forest algorithm has the best result.
-
-
+<br>
 ## **Recommendations**<br>
 ### Short terms
 • Add estimatedarrival time to assure the package arrived on time<br>
