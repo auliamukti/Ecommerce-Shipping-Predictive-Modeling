@@ -25,7 +25,8 @@ An international e-commerce company that sells electronic products want to disco
 | Discount_offered | Discrete | Product Discount in US Dollars | 65, 10, 16
 | Weight_in_gms | Continous | Product Weight in grams | 4953, 5676, 2171
 | Reached.on.Time_Y.N | Nominal | Target Variable, 1: NOT reached on time - 0: REACHED on time | 1, 0
-<br><br>
+
+<br>
 ## **Data Processing**<br>
 • Check missing & duplicate values<br>
 • Remove outliers for `Purchase` feature by IQR limit & replace outliers for `Discount` feature with IQR limit<br>
